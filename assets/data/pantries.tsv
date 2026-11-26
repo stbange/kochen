@@ -1,0 +1,14 @@
+# Kochen Regional Pantries (id 0..11 -> bitmask 1<<id)
+# slug	default_novelty_bias
+italian	0.15
+french	0.15
+sichuan	0.20
+cantonese	0.15
+washoku	0.15
+north_indian	0.20
+south_indian	0.20
+mexican	0.20
+levantine	0.20
+andean	0.20
+se_asian	0.25
+nordic_euro	0.15

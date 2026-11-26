@@ -1,0 +1,13 @@
+schema: spec-driven
+
+context: |
+  Kochen is a First-Principles Culinary Synthesizer built in portable C11 with SDL3 + OpenGL 3.3 Core / WebGL 2.0 (Emscripten) and loose external TSV/INI datasets.
+  Targets: Windows, Linux, macOS, Web (Emscripten, with adaptive mobile touch controls).
+  Licenses: MIT for code and schemas, CC BY 4.0 for original visual/audio art.
+  Engineering constraints: Ponytail minimalist discipline, >=95% line coverage on core/studio/audio logic, broad-sample Phase-1 deterministic solver validation (15 archetypes, ~150 ingredients, 60 classics, 30 mutations, 1,000 stress runs), headless automated E2E studio test, single main branch only, GitHub Pages deployed via GitHub Actions.
+
+rules:
+  proposal:
+    - Keep proposals concise and explicitly state out-of-scope items.
+  tasks:
+    - Keep tasks verifiable with explicit test or build checks.

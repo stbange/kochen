@@ -1,0 +1,308 @@
+# Kochen Locale (de.tsv)
+# key	text
+ui.app_title	KOCHEN · Kulinarischer Synthesizer
+ui.mode_home	Hausküche
+ui.mode_pro	Profi-Labor
+ui.synthesize	Synthese
+ui.mutate	Freie mutieren
+ui.resolve_home	Für Hausküche neu lösen
+ui.home_resolve_prompt	Modernistischer Stabilisator aktiv — 'Für Hausküche neu lösen' wählt klassische Küchenbinder.
+ui.primary_osc	Haupt-Archetyp
+ui.companion_osc	Begleiter / Sauce
+ui.none	Keiner
+ui.pantry	Regionale Speisekammer
+ui.patch_bay	Steckfeld
+ui.knobs_scope	Modulation & Oszilloskop
+ui.recipe_dag	Rezept-DAG
+ui.ingredients	Zutaten & Funktions-Slots
+ui.diagnostics	Live-Patch-Diagnose
+ui.steps	Kompilierte Prozessschritte
+ui.novelty	Tradition <-> Neuheit
+ui.sens_rich	Fülle (Fett)
+ui.sens_bright	Frische (Säure)
+ui.sens_umami	Herzhaft (Umami)
+ui.sens_heat	Schärfe
+ui.sens_sweet	Süß-Bitter
+ui.sens_crunch	Knusprigkeit
+ui.diet_vegan	Vegan
+ui.diet_veg	Vegetarisch
+ui.diet_df	Milchfrei
+ui.diet_gf	Glutenfrei
+ui.diet_nf	Nussfrei
+ui.share_url	Patch teilen
+ui.export_md	MD-Export
+ui.mute	Stumm
+ui.sound_on	Ton Ein
+ui.touch_mode	Touch-UI
+ui.desktop_mode	Desktop-UI
+ui.copied	In Zwischenablage kopiert!
+unit.g	g
+unit.tsp	TL
+unit.tbsp	EL
+unit.cup	Tasse
+unit.pcs	Stk.
+unit.clove	Zehe
+unit.pinch	Prise
+heat.room	Raumtemperatur / Ohne Hitze
+heat.gentle	Sanft / Resthitze
+heat.simmer	Sanftes Köcheln
+heat.medium	Mittlere Hitze
+heat.high	Starke Hitze / Heißer Ofen
+pantry.italian	Römisch & Italienisch
+pantry.french	Klassisch Französisch
+pantry.sichuan	Sichuan
+pantry.cantonese	Kantonesisch
+pantry.washoku	Japanisch (Washoku)
+pantry.north_indian	Nordindisch
+pantry.south_indian	Südindisch
+pantry.mexican	Mexikanisch & Oaxaca
+pantry.levantine	Levantinisch
+pantry.andean	Peruanisch & Anden
+pantry.se_asian	Südostasiatisch
+pantry.nordic_euro	Nordisch & Mitteleuropäisch
+arch.starch_fat_emulsion	Warme Stärke-Fett-Emulsion
+arch.shear_emulsion	Scher-Emulsion (Kalt/Warm)
+arch.collagen_braise	Kollagen-Schmorgericht & Reduktion
+arch.maillard_pan_glaze	Maillard-Röstung & Pfannenglasur
+arch.starch_hydration	Stärkehydration (Risotto/Pilaw)
+arch.veloute_suspension	Velouté, Püree & Suspension
+arch.protein_custard	Stockendes Proteingel & Royale
+arch.coagulated_curd	Koagulierter Proteinbruch
+arch.gluten_dough	Glutenteig & Fermentation
+arch.low_gluten_batter	 Lockerer Backteig & Dampfhülle
+arch.aerated_foam	Aufgeschlagener Schaum & Baiser
+arch.sucrose_caramel	Zuckerkochgrad & Karamell
+arch.acid_osmotic_cure	Säure-/Osmose-Garen (Ohne Hitze)
+arch.crisp_crust_roast	Knusperkruste / Saftiger Kern
+arch.tempered_legume	Hülsenfrucht-Matrix mit Gewürzöl
+role.starch_matrix	Stärkematrix
+role.protein_collagen	Kollagen-Protein
+role.protein_tender	Zartes Hauptelement
+role.legume_matrix	Hülsenfrucht-Basis
+role.aqueous_base	Wässrige Phase
+role.fat_medium	Lipid- / Fettphase
+role.surfactant_binder	Emulgator / Binder
+role.hydrocolloid_gel	Gelier- / Stockmittel
+role.umami_ferment	Umami / Ferment
+role.aroma_early_fat	Fettlösliche Röstaromen
+role.aroma_late_volatile	Flüchtiges Finish
+role.acid_brightener	Säure / Frischegeber
+role.sweet_caramel	Süße / Karamell
+role.texture_crisp	Textur / Triebmittel
+op.pat_dry_brine	Oberfläche trocknen & salzen
+op.pre_scald_enzyme	Enzym-Deaktivierung (Überbrühen)
+op.hydrate_neutral	Weichkochen bei neutralem pH
+op.lipid_shorten_knead	Verzögertes Fetteinarbeiten
+op.whip_clean_foam	Fettfreies Aufschlagen
+op.bloom_fat_aroma	Aromaten in Fett aufschließen
+op.maillard_sear	Trockenes Maillard-Anbraten
+op.starch_cook	Kontrollierte Stärkeverkleisterung
+op.collagen_braise	Sanftes Kollagen-Schmoren
+op.shear_emulsify	Scher-Emulgierung
+op.gentle_coagulate	Sanftes Proteinstocken
+op.sucrose_stage	Zuckerkonzentration & Karamell
+op.acid_osmotic_cure	Kaltes Säure-/Osmose-Beizen
+op.crust_dehydrate_fry	Knusperkrusten-Dehydrierung
+op.post_soften_acid	Säurezugabe nach dem Weichgaren
+op.off_heat_volatiles	Aromatisches Finish ohne Hitze
+op.plate_assemble	Mit Begleiter anrichten
+cue.home.pat_dry_brine	Mit Küchenpapier gründlich trocken tupfen, damit das Bratgut sofort bräunt statt zu dämpfen.
+cue.home.pre_scald_enzyme	2 Minuten kurz aufwallen lassen, um eiweißspaltende Enzyme zu stoppen, damit nichts flüssig bleibt.
+cue.home.hydrate_neutral	Ohne Säure sanft köcheln, bis der Kern butterweich ist — frühe Säure hält Hülsenfrüchte hart.
+cue.home.lipid_shorten_knead	Erst einen glatten, elastischen Teig kneten, dann das weiche Fett stückweise glänzend einarbeiten.
+cue.home.whip_clean_foam	In einer absolut fettfreien Schüssel aufschlagen, bis glänzende Spitzen stabil stehen.
+cue.home.bloom_fat_aroma	In warmem Fett sanft anschwitzen, bis die Gewürze intensiv duften, ohne dunkel zu werden.
+cue.home.maillard_sear	Unbewegt kräftig anbraten, bis sich eine tiefbraune Röstkruste bildet und leicht vom Boden löst.
+cue.home.starch_cook	Gleichmäßig garen, bis die Stärke saftig quillt; Kochflüssigkeit zum Binden bereithalten.
+cue.home.collagen_braise	Nur ganz sanft schmoren lassen, bis das Bindegewebe butterzart schmilzt und die Sauce glänzt.
+cue.home.shear_emulsify	Abseits starker Hitze kräftig schlagen oder schwenken, bis eine sämig-glänzende Emulsion entsteht.
+cue.home.gentle_coagulate	Bei milder Hitze sanft stocken lassen, bis die Mitte wie zartes Gelee wackelt — niemals kochen lassen.
+cue.home.sucrose_stage	Ohne Rühren einkochen, bis dicke Blasen steigen und goldener Bernsteinton entsteht; Pfanne nur schwenken.
+cue.home.acid_osmotic_cure	Gekühlt wenden, bis die Ränder leicht milchig-fest werden, der Kern aber saftig-glasig bleibt.
+cue.home.crust_dehydrate_fry	Heiß backen oder frittieren, bis die Kruste trocken-knusprig kracht und das Innere saftig bleibt.
+cue.home.post_soften_acid	Jetzt die Säure unterrühren und kurz durchziehen lassen, damit Frische und Bindung harmonieren.
+cue.home.off_heat_volatiles	Vom Herd nehmen und frische Kräuter, Zeste oder feine Öle erst in der Resthitze unterheben.
+cue.home.plate_assemble	Die Hauptkomponente heiß anrichten und mit der Begleitsauce kontrastreich vollenden.
+cue.pro.pat_dry_brine	Oberflächenfeuchte senken (aw < 0,85) und NaCl osmotisch einziehen lassen für Maillard-Start >=155 °C.
+cue.pro.pre_scald_enzyme	Über Protease-Denaturierungstemperatur (>=76 °C, 120 s) halten, um Gelnetzwerk-Abbau zu verhindern.
+cue.pro.hydrate_neutral	Pektin der Mittellamelle bei pH >= 6,0 erweichen; frühe H+-Ionen vernetzen Pektat irreversibel.
+cue.pro.lipid_shorten_knead	Glutenin-Gliadin-Netzwerk vollständig hydratisieren, bevor Lipide (>10 %) Stränge verkürzen.
+cue.pro.whip_clean_foam	Lipidfreien Protein-/Saponinfilm aufschlagen; Saccharose erhöht die Lamellenviskosität gegen Drainage.
+cue.pro.bloom_fat_aroma	Lipophile Terpene, Capsaicinoide und Sulfide bei 115-128 °C unterhalb des Rauchpunkts extrahieren.
+cue.pro.maillard_sear	Nicht-enzymatische Amino-Carbonyl-Maillard-Kaskade bei 165-210 °C für Pyrazine & Melanoidine.
+cue.pro.starch_cook	Stärkekörner über Verkleisterungspunkt (62-75 °C) garen; Amylopektin-Scherung vs. Amylose steuern.
+cue.pro.collagen_braise	Tripelhelix-Tropokollagen bei 82-90 °C zu löslicher Gelatine hydrolysieren; Reduktion einstellen.
+cue.pro.shear_emulsify	Lipidtröpfchen unter Scherung im Phasenpackungsfenster und unterhalb der Casein-Grenze (<68 °C) emulgieren.
+cue.pro.gentle_coagulate	Protein-/Hydrokolloidnetzwerk bei 78-82 °C (<83 °C Synärese-Grenze) und ausreichender Ionenstärke vernetzen.
+cue.pro.sucrose_stage	Saccharose bis zur Pyrolyse (165-172 °C) konzentrieren; Invertzucker/Säure hemmt Rekristallisation.
+cue.pro.acid_osmotic_cure	Myofibrilläre Oberflächenproteine über pH <= 3,6 / NaCl-Osmose im engen Zeitfenster denaturieren.
+cue.pro.crust_dehydrate_fry	Oberflächendampf bei 185-205 °C austreiben für poröse Kruste bei saftiger Kerntemperatur (65-92 °C).
+cue.pro.post_soften_acid	Nach abgeschlossener Pektinerweichung auf Ziel-pH titrieren und kurz equilibrieren.
+cue.pro.off_heat_volatiles	Hitzeempfindliche Terpene, Aldehyde und Ester unter 52 °C einarbeiten, um Dampfdruckverluste zu vermeiden.
+cue.pro.plate_assemble	Hauptmatrix und Begleitemulsion unter Erhalt des thermischen und texturellen Phasenkontrasts vereinen.
+ing.durum_pasta	Hartweizen-Pasta
+ing.wheat_noodles	Weizennudeln
+ing.rice_noodles	Reisnudeln
+ing.arborio_rice	Arborio-Risottoreis
+ing.jasmine_rice	Jasminreis
+ing.basmati_rice	Basmatireis
+ing.bread_flour	Backstarkes Weizenmehl
+ing.pastry_flour	Feines Gebäckmehl
+ing.rice_flour	Reismehl
+ing.chickpea_flour	Kichererbsenmehl
+ing.masa_harina	Masa Harina (Maismehl)
+ing.starchy_potato	Mehligkochende Kartoffel
+ing.cornstarch	Maisstärke
+ing.potato_starch	Kartoffelstärke
+ing.buckwheat_flour	Buchweizenmehl
+ing.cassava_tapioca	Tapiokastärke
+ing.beef_chuck	Rindernacken (Schmorstück)
+ing.beef_short_rib	Rinderquerrippe
+ing.pork_belly	Schweinebauch
+ing.lamb_shoulder	Lammschulter
+ing.chicken_thigh	Hähnchenoberkeule
+ing.duck_leg	Entenkeule
+ing.beef_sirloin	Rumpsteak vom Rind
+ing.chicken_breast	Hähnchenbrustfilet
+ing.pork_loin	Schweinerücken
+ing.sea_bass_fillet	Wolfsbarschfilet
+ing.salmon_fillet	Lachsfilet
+ing.tiger_shrimp	Riesengarnelen
+ing.guanciale_lardons	Guanciale / Speckwürfel
+ing.firm_tofu	Fester Naturtofu
+ing.king_oyster_mush	Kräuterseitling
+ing.eggplant_flesh	Aubergine
+ing.cauliflower_floret	Blumenkohlröschen
+ing.paneer_fresh	Frischer Paneer
+ing.red_lentils	Rote Linsen
+ing.chickpeas_dry	Eingeweichte Kichererbsen
+ing.black_beans_dry	Schwarze Bohnen
+ing.fava_beans_dry	Geschälte Ackerbohnen
+ing.mung_dal_split	Gelbe Mung-Dal-Linsen
+ing.pinto_beans_dry	Pinto-Bohnen
+ing.water	Wasser
+ing.starchy_pasta_water	Stärkehaltiges Nudelwasser
+ing.kombu_bonito_dashi	Kombu-Bonito-Dashi
+ing.kombu_shiitake_dashi	Kombu-Shiitake-Dashi
+ing.chicken_stock	Kräftiger Geflügelfond
+ing.beef_bone_stock	Dunkler Rinderfond
+ing.shellfish_stock	Krustentierfond
+ing.roasted_veg_stock	Gerösteter Gemüsefond
+ing.whole_milk	Vollmilch
+ing.heavy_cream	Schlagsahne (36 %)
+ing.coconut_milk	Cremige Kokosmilch
+ing.soy_milk_rich	Ungesüßte Sojamilch
+ing.buttermilk	Buttermilch
+ing.almond_milk_unsweet	Ungesüßte Mandelmilch
+ing.dry_white_wine	Trockener Weißwein
+ing.dry_red_wine	Trockener Rotwein
+ing.extra_virgin_olive_oil	Natives Olivenöl extra
+ing.unsalted_butter	Ungesalzene Butter
+ing.clarified_ghee	Geklärte Butter (Ghee)
+ing.neutral_canola_oil	Neutrales Rapsöl
+ing.peanut_oil	Erdnussöl
+ing.toasted_sesame_oil	Geröstetes Sesamöl
+ing.sichuan_chili_oil	Sichuan-Chiliöl
+ing.coconut_oil	Kokosöl
+ing.rendered_lard	Schweineschmalz
+ing.duck_fat	Entenschmalz
+ing.mustard_oil	Senföl
+ing.dark_chocolate_70	Dunkle Schokolade (70 %)
+ing.egg_yolk	Eigelb
+ing.whole_egg	Ganzes Ei
+ing.egg_white_albumen	Eiweiß (Eiklar)
+ing.pecorino_romano	Pecorino Romano (fein gerieben)
+ing.parmigiano_reggiano	Parmigiano Reggiano
+ing.gruyere_cheese	Gereifter Gruyère
+ing.dijon_mustard	Dijon-Senf
+ing.tahini_sesame_paste	Tahini (Sesampaste)
+ing.chinese_sesame_paste	Dunkle Sesampaste (Zhimajiang)
+ing.aquafaba_liquid	Reduziertes Aquafaba
+ing.cashew_cream_base	Feines Cashewmus
+ing.wheat_roux_blond	Helle Mehlschwitze (Roux)
+ing.blanched_almonds	Blanchierte Mandeln
+ing.gelatin_bloom200	Speisegelatine (200 Bloom)
+ing.nigari_magnesium	Nigari (Magnesiumchlorid)
+ing.silken_tofu_base	Seidentofu
+ing.sodium_citrate	Trinatriumcitrat
+ing.xanthan_gum	Xanthan
+ing.agar_agar_powder	Agar-Agar
+ing.iota_carrageenan	Iota-Carrageen
+ing.methylcellulose_f50	Methylcellulose (F50)
+ing.soy_lecithin_pwd	Sojalecithin-Pulver
+ing.transglutaminase	Transglutaminase
+ing.koji_enzyme_paste	Aktive Shio-Koji-Paste
+ing.calcium_lactate	Calciumlactat
+ing.white_shiro_miso	Helles Shiro-Miso
+ing.red_aka_miso	Gereiftes Aka-Miso
+ing.pixian_doubanjiang	Pixian-Doubanjiang (Chilibohnenpaste)
+ing.soy_sauce_shoyu	Gebraute Sojasauce (Shoyu)
+ing.tamari_gf_soy	Glutenfreies Tamari
+ing.fish_sauce_nam_pla	Fischsauce (Nam Pla)
+ing.anchovy_fillet	Eingelegte Sardellenfilets
+ing.tomato_paste_conc	Doppelt konzentriertes Tomatenmark
+ing.dried_porcini_shiitake	Getrocknete Steinpilze / Shiitake
+ing.nutritional_yeast	Edelhefeflocken
+ing.oyster_sauce	Austernsauce
+ing.fermented_shrimp_paste	Garnelenpaste (Belacan)
+ing.sea_salt_fine	Feines Meersalz
+ing.garlic_clove	Frischer Knoblauch
+ing.shallot_bulb	Fein gewürfelte Schalotte
+ing.yellow_onion	Gelbe Zwiebel
+ing.fresh_ginger_raw	Frischer Ingwer
+ing.black_peppercorn	Grob zerstoßener schwarzer Pfeffer
+ing.sichuan_peppercorn	Gerösteter Sichuanpfeffer
+ing.cumin_seed	Kreuzkümmelsamen
+ing.coriander_seed	Koriandersaat
+ing.brown_mustard_seed	Braune Senfkörner
+ing.dried_arbol_chili	Getrocknete rote Chilischoten
+ing.pasilla_ancho_chili	Geröstete Pasilla-/Ancho-Chili
+ing.aji_amarillo_paste	Peruanische Ají-Amarillo-Paste
+ing.lemongrass_galangal	Zitronengras & Galgant
+ing.curry_leaves_fresh	Frische Curryblätter
+ing.turmeric_garam_spice	Kurkuma & Garam-Gewürze
+ing.cinnamon_clove_star	Zimt, Sternanis & Nelke
+ing.saffron_threads	Safranfäden
+ing.smoked_paprika	Geräuchertes Paprikapulver
+ing.mirepoix_carrot_cel	Karotten-Sellerie-Mirepoix
+ing.red_onion_sliced	Fein gehobelte rote Zwiebel
+ing.fresh_basil_parsley	Frisches Basilikum & glatte Petersilie
+ing.fresh_cilantro	Frisches Koriandergrün
+ing.fresh_dill_chives	Frischer Dill & Schnittlauch
+ing.scallion_greens	Frühlingszwiebelgrün
+ing.lemon_yuzu_zest	Frischer Zitronen-/Yuzu-Abrieb
+ing.vanilla_bean_paste	Vanillemark
+ing.orange_blossom_rose	Orangenblütenwasser
+ing.mitsuba_shiso_leaf	Frisches Mitsuba / Shiso
+ing.thai_holy_basil	Thai-Basilikum
+ing.fresh_pineapple_raw	Frische rohe Ananas
+ing.fresh_lemon_juice	Frischer Zitronensaft
+ing.fresh_lime_juice	Frischer Limettensaft
+ing.yuzu_juice	Gepresster Yuzu-Saft
+ing.rice_vinegar	Reisessig
+ing.chinkiang_black_vin	Schwarzer Chinkiang-Reisessig
+ing.sherry_wine_vinegar	Gereifter Sherry-/Weinessig
+ing.tamarind_pulp_conc	Tamarindenmark
+ing.strained_yogurt	Abgetropfter Naturjoghurt
+ing.fresh_tomato_diced	Reife Eiertomaten
+ing.cream_of_tartar	Weinsteinpulver
+ing.caster_sucrose	Feiner Kristallzucker
+ing.palm_jaggery_sugar	Palmzucker / Jaggery
+ing.floral_honey	Blütenhonig
+ing.glucose_corn_syrup	Glukosesirup
+ing.hon_mirin	Hon-Mirin
+ing.pomegranate_molasses	Granatapfelsirup
+ing.pure_maple_syrup	Ahornsirup
+ing.shaoxing_rice_wine	Shaoxing-Reiswein
+ing.roasted_peanuts	Geröstete Erdnüsse
+ing.toasted_sesame_seed	Geröstete Sesamsaat
+ing.panko_breadcrumbs	Knuspriges Panko-Paniermehl
+ing.crispy_fried_shallot	Knusprige Röstschalotten
+ing.toasted_hazelnut_wal	Geröstete Hasel- & Walnüsse
+ing.cancha_toasted_corn	Gerösteter Cancha-Mais
+ing.pine_nuts_pistachio	Geröstete Pinienkerne & Pistazien
+ing.flaky_maldon_salt	Meersalzflocken
+ing.active_yeast_salt	Frische Hefe & Meersalz
+ing.baking_powder_salt	Backpulver & feines Salz
+ing.baking_soda_alkali	Natron (Backnatron)
+ing.nori_furikake_crisp	Geröstetes Nori-Furikake

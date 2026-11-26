@@ -1,0 +1,308 @@
+# Kochen Locale (pl.tsv)
+# key	text
+ui.app_title	KOCHEN · Syntezator Kulinarny
+ui.mode_home	Tryb Domowy
+ui.mode_pro	Tryb Pro
+ui.synthesize	Syntezuj
+ui.mutate	Mutuj otwarte
+ui.resolve_home	Zamień na składniki domowe
+ui.home_resolve_prompt	Aktywny stabilizator modernistyczny — kliknij 'Zamień na składniki domowe', aby użyć domowych zamienników.
+ui.primary_osc	Archetyp główny
+ui.companion_osc	Dodatek / Sos
+ui.none	Brak
+ui.pantry	Spiżarnia regionalna
+ui.patch_bay	Krosownica
+ui.knobs_scope	Modulacja i Oscyloskop
+ui.recipe_dag	Graf przepisu
+ui.ingredients	Składniki i role funkcjonalne
+ui.diagnostics	Diagnostyka na żywo
+ui.steps	Skompilowane kroki procesu
+ui.novelty	Tradycja <-> Nowość
+ui.sens_rich	Bogactwo (Tłuszcz)
+ui.sens_bright	Rześkość (Kwas)
+ui.sens_umami	Głębia (Umami)
+ui.sens_heat	Ostrość
+ui.sens_sweet	Słodko-Gorzkie
+ui.sens_crunch	Chrupkość
+ui.diet_vegan	Wegańskie
+ui.diet_veg	Wegetariańskie
+ui.diet_df	Bez nabiału
+ui.diet_gf	Bez glutenu
+ui.diet_nf	Bez orzechów
+ui.share_url	Udostępnij
+ui.export_md	Eksport MD
+ui.mute	Wycisz
+ui.sound_on	Dźwięk Wł.
+ui.touch_mode	Dotyk
+ui.desktop_mode	Pulpit
+ui.copied	Skopiowano do schowka!
+unit.g	g
+unit.tsp	łyżecz.
+unit.tbsp	łyż.
+unit.cup	szkl.
+unit.pcs	szt.
+unit.clove	ząb.
+unit.pinch	szczypta
+heat.room	Temp. pokojowa / Bez ognia
+heat.gentle	Delikatnie / Ciepło resztkowe
+heat.simmer	Wolne gotowanie
+heat.medium	Średni ogień
+heat.high	Mocny ogień / Gorący piec
+pantry.italian	Włoska i rzymska
+pantry.french	Klasyczna francuska
+pantry.sichuan	Syczuańska
+pantry.cantonese	Kantońska
+pantry.washoku	Japońska (Washoku)
+pantry.north_indian	Północnoindyjska
+pantry.south_indian	Południowoindyjska
+pantry.mexican	Meksykańska i Oaxaca
+pantry.levantine	Lewantyńska
+pantry.andean	Peruwiańska i andyjska
+pantry.se_asian	Południowo-wschodnioazjatycka
+pantry.nordic_euro	Nordycka i środkowoeuropejska
+arch.starch_fat_emulsion	Ciepła emulsja skrobiowo-tłuszczowa
+arch.shear_emulsion	Emulsja ścinana (zimna/ciepła)
+arch.collagen_braise	Duszenie kolagenowe i redukcja
+arch.maillard_pan_glaze	Obsmażanie Maillarda i glazura
+arch.starch_hydration	Hydratacja skrobi (risotto/pilaw)
+arch.veloute_suspension	Velouté, purée i zawiesina
+arch.protein_custard	Ścinany żel białkowy i krem
+arch.coagulated_curd	Koagulowany skrzep białkowy
+arch.gluten_dough	Ciasto glutenowe i fermentowane
+arch.low_gluten_batter	Lekkie ciasto naleśnikowe / tempura
+arch.aerated_foam	Piana napowietrzana i beza
+arch.sucrose_caramel	Syrop cukrowy i karmel
+arch.acid_osmotic_cure	Marynowanie kwasowe / osmotyczne
+arch.crisp_crust_roast	Chrupiąca skórka / Soczyste wnętrze
+arch.tempered_legume	Rośliny strączkowe z temperowanym olejem
+role.starch_matrix	Baza skrobiowa
+role.protein_collagen	Białko kolagenowe
+role.protein_tender	Delikatny składnik główny
+role.legume_matrix	Baza strączkowa
+role.aqueous_base	Faza wodna
+role.fat_medium	Faza tłuszczowa
+role.surfactant_binder	Emulgator / Spoiwo
+role.hydrocolloid_gel	Czynnik żelujący
+role.umami_ferment	Umami / Ferment
+role.aroma_early_fat	Aromaty wczesne (tłuszczowe)
+role.aroma_late_volatile	Lotne aromaty końcowe
+role.acid_brightener	Kwas / Rozjaśniacz
+role.sweet_caramel	Cukier / Karmel
+role.texture_crisp	Chrupkość / Spulchniacz
+op.pat_dry_brine	Osuszanie powierzchni i solenie
+op.pre_scald_enzyme	Dezaktywacja enzymów proteolitycznych
+op.hydrate_neutral	Gotowanie zmiękczające w neutralnym pH
+op.lipid_shorten_knead	Opóźnione wtłaczanie tłuszczu
+op.whip_clean_foam	Ubijanie czystej piany bez tłuszczu
+op.bloom_fat_aroma	Uwalnianie aromatów w ciepłym tłuszczu
+op.maillard_sear	Mocne obsmażanie Maillarda
+op.starch_cook	Kontrolowana żelifikacja skrobi
+op.collagen_braise	Powolna hydroliza kolagenu w żelatynę
+op.shear_emulsify	Emulgowanie ścinające
+op.gentle_coagulate	Delikatna koagulacja białek
+op.sucrose_stage	Zagęszczanie syropu i karmelizacja
+op.acid_osmotic_cure	Zimna denaturacja kwasowo-osmotyczna
+op.crust_dehydrate_fry	Odwadnianie chrupiącej skórki
+op.post_soften_acid	Dodanie kwasu po zmiękczeniu
+op.off_heat_volatiles	Wykończenie lotnymi aromatami poza ogniem
+op.plate_assemble	Połączenie z sosem i podanie
+cue.home.pat_dry_brine	Dokładnie osusz ręcznikiem papierowym, aby powierzchnia od razu się rumieniła zamiast dusić.
+cue.home.pre_scald_enzyme	Podgrzej do lekkiego wrzenia przez 2 minuty, aby zneutralizować enzymy rozkładające białko.
+cue.home.hydrate_neutral	Gotuj na wolnym ogniu bez kwaśnych dodatków, aż ziarna będą w pełni miękkie.
+cue.home.lipid_shorten_knead	Najpierw wyrób elastyczne ciasto, a następnie stopniowo wtłaczaj miękki tłuszcz.
+cue.home.whip_clean_foam	Ubijaj w idealnie czystej, odtłuszczonej misce na sztywną, lśniącą pianę.
+cue.home.bloom_fat_aroma	Podgrzewaj łagodnie w tłuszczu, aż uwolni się głęboki aromat bez przypalenia.
+cue.home.maillard_sear	Smaż bez mieszania na mocno rozgrzanej patelni, aż powstanie złocistobrązowa skórka.
+cue.home.starch_cook	Gotuj równomiernie do napęcznienia skrobi, zachowując wodę skrobiową do związania sosu.
+cue.home.collagen_braise	Duś na minimalnym ogniu, aż kolagen zamieni się w aksamitną, kleistą glazurę.
+cue.home.shear_emulsify	Energicznie mieszaj poza mocnym ogniem, powoli wlewając tłuszcz do uzyskania gładkiej emulsji.
+cue.home.gentle_coagulate	Podgrzewaj bardzo delikatnie, aż środek lekko zadrży jak galaretka; nie dopuść do wrzenia.
+cue.home.sucrose_stage	Gotuj bez mieszania do gęstych bąbli i bursztynowego koloru, jedynie kołysząc rondlem.
+cue.home.acid_osmotic_cure	Wymieszaj schłodzone kawałki w marynacie tylko do lekkiego ścięcia brzegów.
+cue.home.crust_dehydrate_fry	Piecz lub smaż w wysokiej temperaturze do uzyskania chrupiącej skórki i soczystego środka.
+cue.home.post_soften_acid	Dodaj kwaśne składniki po zmiękczeniu bazy i krótko zagotuj dla połączenia smaków.
+cue.home.off_heat_volatiles	Zdejmij z ognia i dopiero teraz wmieszaj świeże zioła, skórkę cytrusową lub delikatne oleje.
+cue.home.plate_assemble	Wyłóż gorący składnik główny i dopełnij kontrastującym sosem towarzyszącym.
+cue.pro.pat_dry_brine	Obniż aktywność wody powierzchniowej (aw < 0,85) i wyrównaj osmozę NaCl przed reakcją Maillarda >=155 °C.
+cue.pro.pre_scald_enzyme	Utrzymaj powyżej progu denaturacji proteaz (>=76 °C, 120 s), chroniąc sieć żelową białek.
+cue.pro.hydrate_neutral	Zhydratyzuj pektyny blaszki środkowej przy pH >= 6,0; wczesne jony H+ blokują mięknięcie.
+cue.pro.lipid_shorten_knead	Rozwiń sieć gluteninowo-gliadynową przed dodaniem lipidów (>10% tłuszczu skraca pasma glutenu).
+cue.pro.whip_clean_foam	Napowietrz film białkowo-saponinowy bez lipidów; sacharoza zwiększa lepkość lameli piany.
+cue.pro.bloom_fat_aroma	Ekstrahuj lipofilowe terpeny i siarczki w fazie tłuszczowej w 115-128 °C poniżej punktu dymienia.
+cue.pro.maillard_sear	Przeprowadź nieenzymatyczną kaskadę Maillarda w 165-210 °C, generując pirazyny i melanoidyny.
+cue.pro.starch_cook	Sklejikuj ziarna skrobi powyżej 62-75 °C, kontrolując lepkość amylopektyny i retrogradację amylozy.
+cue.pro.collagen_braise	Zhydrolizuj tropokolagen do rozpuszczalnej żelatyny w 82-90 °C i zredukuj wywar do glazury.
+cue.pro.shear_emulsify	Zdysperguj krople tłuszczu w fazie ciągłej z zachowaniem limitu upakowania i pułapu kazeiny (<68 °C).
+cue.pro.gentle_coagulate	Usieciuj żel białkowo-hydrokoloidowy w 78-82 °C (<83 °C próg synerezy) przy właściwej sile jonowej.
+cue.pro.sucrose_stage	Zagęść sacharozę do pirolizy (165-172 °C), hamując krystalizację cukrem inwertowanym lub kwasem.
+cue.pro.acid_osmotic_cure	Zdenaturuj białka powierzchniowe przez pH <= 3,6 / gradient osmotyczny NaCl w ścisłym oknie czasowym.
+cue.pro.crust_dehydrate_fry	Odparuj wilgoć powierzchniową w 185-205 °C, tworząc porowatą skórkę przy soczystym rdzeniu (65-92 °C).
+cue.pro.post_soften_acid	Zmiareczkuj układ do docelowego pH po całkowitym zmiękczeniu pektyn komórkowych.
+cue.pro.off_heat_volatiles	Wprowadź termolabilne terpeny, aldehydy i estry poniżej 52 °C, minimalizując straty lotne.
+cue.pro.plate_assemble	Połącz główną matrycę z emulsją towarzyszącą, zachowując kontrast fazowy i teksturalny.
+ing.durum_pasta	Makaron z pszenicy durum
+ing.wheat_noodles	Makaron pszenny alkaliczny
+ing.rice_noodles	Makaron ryżowy
+ing.arborio_rice	Ryż Arborio do risotto
+ing.jasmine_rice	Ryż jaśminowy
+ing.basmati_rice	Ryż basmati
+ing.bread_flour	Mąka pszenna chlebowa
+ing.pastry_flour	Mąka pszenna cukiernicza
+ing.rice_flour	Mąka ryżowa
+ing.chickpea_flour	Mąka z ciecierzycy
+ing.masa_harina	Mąka kukurydziana Masa Harina
+ing.starchy_potato	Ziemniaki mączyste
+ing.cornstarch	Skrobia kukurydziana
+ing.potato_starch	Skrobia ziemniaczana
+ing.buckwheat_flour	Mąka gryczana
+ing.cassava_tapioca	Skrobia z tapioki
+ing.beef_chuck	Karkówka wołowa do duszenia
+ing.beef_short_rib	Szponder wołowy
+ing.pork_belly	Boczek wieprzowy surowy
+ing.lamb_shoulder	Łopatka jagnięca
+ing.chicken_thigh	Udko z kurczaka
+ing.duck_leg	Udko z kaczki
+ing.beef_sirloin	Rostbef wołowy
+ing.chicken_breast	Pierś z kurczaka
+ing.pork_loin	Polędwica wieprzowa
+ing.sea_bass_fillet	Filet z okonia morskiego
+ing.salmon_fillet	Filet z łososia
+ing.tiger_shrimp	Krewetki tygrysie
+ing.guanciale_lardons	Guanciale / Wędzony boczek
+ing.firm_tofu	Twarde tofu naturalne
+ing.king_oyster_mush	Boczniak królewski
+ing.eggplant_flesh	Bakłażan
+ing.cauliflower_floret	Różyczki kalafiora
+ing.paneer_fresh	Świeży ser paneer
+ing.red_lentils	Czerwona soczewica
+ing.chickpeas_dry	Namoczona ciecierzyca
+ing.black_beans_dry	Czarna fasola
+ing.fava_beans_dry	Bób łuskany
+ing.mung_dal_split	Żółta fasolka mung dal
+ing.pinto_beans_dry	Fasola pinto
+ing.water	Woda
+ing.starchy_pasta_water	Słona woda skrobiowa z makaronu
+ing.kombu_bonito_dashi	Bulion dashi (kombu i bonito)
+ing.kombu_shiitake_dashi	Wegańskie dashi kombu-shiitake
+ing.chicken_stock	Esencjonalny bulion drobiowy
+ing.beef_bone_stock	Pieczony wywar wołowy
+ing.shellfish_stock	Bulion ze skorupiaków
+ing.roasted_veg_stock	Pieczony bulion warzywny
+ing.whole_milk	Mleko pełne
+ing.heavy_cream	Śmietanka kremówka 36%
+ing.coconut_milk	Pełnotłuste mleko kokosowe
+ing.soy_milk_rich	Niesłodzone gęste mleko sojowe
+ing.buttermilk	Maślanka
+ing.almond_milk_unsweet	Niesłodzone mleko migdałowe
+ing.dry_white_wine	Wytrawne białe wino
+ing.dry_red_wine	Wytrawne czerwone wino
+ing.extra_virgin_olive_oil	Oliwa z oliwek extra vergine
+ing.unsalted_butter	Masło ekstra niesolone
+ing.clarified_ghee	Masło klarowane (Ghee)
+ing.neutral_canola_oil	Olej rzepakowy rafinowany
+ing.peanut_oil	Olej arachidowy
+ing.toasted_sesame_oil	Olej z prażonego sezamu
+ing.sichuan_chili_oil	Olej chili po syczuańsku
+ing.coconut_oil	Olej kokosowy
+ing.rendered_lard	Smalec wieprzowy
+ing.duck_fat	Tłuszcz z kaczki
+ing.mustard_oil	Olej gorczycowy
+ing.dark_chocolate_70	Gorzka czekolada 70%
+ing.egg_yolk	Żółtko jaja
+ing.whole_egg	Całe jajko
+ing.egg_white_albumen	Białko jaja
+ing.pecorino_romano	Tarty ser Pecorino Romano
+ing.parmigiano_reggiano	Ser Parmigiano Reggiano
+ing.gruyere_cheese	Dojrzewający ser Gruyère
+ing.dijon_mustard	Musztarda Dijon
+ing.tahini_sesame_paste	Pasta sezamowa tahini
+ing.chinese_sesame_paste	Prażona chińska pasta sezamowa
+ing.aquafaba_liquid	Zredukowana aquafaba
+ing.cashew_cream_base	Aksamitny krem z nerkowców
+ing.wheat_roux_blond	Jasna zasmażka maślana (roux)
+ing.blanched_almonds	Blanszowane migdały
+ing.gelatin_bloom200	Żelatyna spożywcza (200 Bloom)
+ing.nigari_magnesium	Nigari (chlorek magnezu)
+ing.silken_tofu_base	Jedwabiste tofu silken
+ing.sodium_citrate	Cytrynian sodu
+ing.xanthan_gum	Guma ksantanowa
+ing.agar_agar_powder	Agar-agar w proszku
+ing.iota_carrageenan	Karagen jota
+ing.methylcellulose_f50	Metyloceluloza (F50)
+ing.soy_lecithin_pwd	Lecytyna sojowa w proszku
+ing.transglutaminase	Transglutaminaza
+ing.koji_enzyme_paste	Aktywna pasta shio-koji
+ing.calcium_lactate	Mleczan wapnia
+ing.white_shiro_miso	Jasna pasta shiro miso
+ing.red_aka_miso	Ciemna pasta aka miso
+ing.pixian_doubanjiang	Syczuańska pasta doubanjiang
+ing.soy_sauce_shoyu	Naturalnie warzony sos sojowy
+ing.tamari_gf_soy	Bezglutenowy sos tamari
+ing.fish_sauce_nam_pla	Sos rybny (Nam Pla)
+ing.anchovy_fillet	Fileciki anchois
+ing.tomato_paste_conc	Koncentrat pomidorowy
+ing.dried_porcini_shiitake	Suszone borowiki / shiitake
+ing.nutritional_yeast	Płatki drożdżowe nieaktywne
+ing.oyster_sauce	Sos ostrygowy
+ing.fermented_shrimp_paste	Pasta krewetkowa (Belacan)
+ing.sea_salt_fine	Drobna sól morska
+ing.garlic_clove	Świeży czosnek
+ing.shallot_bulb	Drobno posiekana szalotka
+ing.yellow_onion	Cebula żółta
+ing.fresh_ginger_raw	Świeży tarty imbir
+ing.black_peppercorn	Świeżo tłuczony czarny pieprz
+ing.sichuan_peppercorn	Prażony pieprz syczuański
+ing.cumin_seed	Nasiona kminu rzymskiego
+ing.coriander_seed	Nasiona kolendry
+ing.brown_mustard_seed	Ziarna czarnej gorczycy
+ing.dried_arbol_chili	Suszone ostre papryczki chili
+ing.pasilla_ancho_chili	Prażone chili Pasilla / Ancho
+ing.aji_amarillo_paste	Peruwiańska pasta Ají Amarillo
+ing.lemongrass_galangal	Trawa cytrynowa i galangal
+ing.curry_leaves_fresh	Świeże liście curry
+ing.turmeric_garam_spice	Kurkuma i przyprawy garam masala
+ing.cinnamon_clove_star	Cynamon, anyż gwiaździsty i goździki
+ing.saffron_threads	Nitki szafranu
+ing.smoked_paprika	Wędzona papryka (Pimentón)
+ing.mirepoix_carrot_cel	Włoszczyzna mirepoix (marchew i seler)
+ing.red_onion_sliced	Cienko krojona czerwona cebula
+ing.fresh_basil_parsley	Świeża bazylia i natka pietruszki
+ing.fresh_cilantro	Świeże liście kolendry
+ing.fresh_dill_chives	Świeży koperek i szczypiorek
+ing.scallion_greens	Zielona dymka
+ing.lemon_yuzu_zest	Starta skórka z cytryny / yuzu
+ing.vanilla_bean_paste	Pasta z laski wanilii
+ing.orange_blossom_rose	Woda z kwiatu pomarańczy
+ing.mitsuba_shiso_leaf	Świeże liście mitsuba / shiso
+ing.thai_holy_basil	Tajska bazylia
+ing.fresh_pineapple_raw	Świeży surowy ananas
+ing.fresh_lemon_juice	Świeży sok z cytryny
+ing.fresh_lime_juice	Świeży sok z limonki
+ing.yuzu_juice	Sok z cytrusa yuzu
+ing.rice_vinegar	Ocet ryżowy
+ing.chinkiang_black_vin	Czarny ocet ryżowy Chinkiang
+ing.sherry_wine_vinegar	Dojrzewający ocet sherry / winny
+ing.tamarind_pulp_conc	Kwaśna pulpa z tamaryndowca
+ing.strained_yogurt	Gęsty jogurt naturalny
+ing.fresh_tomato_diced	Dojrzałe pomidory
+ing.cream_of_tartar	Kamień winny (winian potasu)
+ing.caster_sucrose	Drobny cukier trzcinowy/biały
+ing.palm_jaggery_sugar	Cukier palmowy / Jaggery
+ing.floral_honey	Miód kwiatowy
+ing.glucose_corn_syrup	Syrop glukozowy
+ing.hon_mirin	Słodkie wino ryżowe Mirin
+ing.pomegranate_molasses	Melasa z granatów
+ing.pure_maple_syrup	Syrop klonowy
+ing.shaoxing_rice_wine	Wino ryżowe Shaoxing
+ing.roasted_peanuts	Prażone orzeszki ziemne
+ing.toasted_sesame_seed	Prażony sezam
+ing.panko_breadcrumbs	Chrupiąca panierka Panko
+ing.crispy_fried_shallot	Chrupiąca prażona szalotka
+ing.toasted_hazelnut_wal	Prażone orzechy laskowe i włoskie
+ing.cancha_toasted_corn	Prażona kukurydza Cancha
+ing.pine_nuts_pistachio	Prażone orzeszki piniowe i pistacje
+ing.flaky_maldon_salt	Płatki soli morskiej
+ing.active_yeast_salt	Drożdże i sól morska
+ing.baking_powder_salt	Proszek do pieczenia i sól
+ing.baking_soda_alkali	Soda oczyszczona (alkalia)
+ing.nori_furikake_crisp	Prażone nori i sezam furikake

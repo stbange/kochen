@@ -1,0 +1,308 @@
+# Kochen Locale (en.tsv)
+# key	text
+ui.app_title	KOCHEN · Culinary Synthesizer
+ui.mode_home	Home Mode
+ui.mode_pro	Pro Mode
+ui.synthesize	Synthesize
+ui.mutate	Mutate Unlocked
+ui.resolve_home	Re-solve for Home Pantry
+ui.home_resolve_prompt	Modernist stabilizer active — click 'Re-solve for Home Pantry' to swap to classic kitchen binders.
+ui.primary_osc	Primary Archetype
+ui.companion_osc	Companion / Sauce
+ui.none	None
+ui.pantry	Regional Pantry
+ui.patch_bay	Patch Bay
+ui.knobs_scope	Modulation & Scope
+ui.recipe_dag	Recipe DAG
+ui.ingredients	Ingredients & Functional Slots
+ui.diagnostics	Live Patch Diagnostics
+ui.steps	Compiled State-Transformation Steps
+ui.novelty	Tradition <-> Novelty
+ui.sens_rich	Richness (Fat)
+ui.sens_bright	Brightness (Acid)
+ui.sens_umami	Savory (Umami)
+ui.sens_heat	Heat / Pungency
+ui.sens_sweet	Sweet-Bitter
+ui.sens_crunch	Crunch / Contrast
+ui.diet_vegan	Vegan
+ui.diet_veg	Vegetarian
+ui.diet_df	Dairy-Free
+ui.diet_gf	Gluten-Free
+ui.diet_nf	Nut-Free
+ui.share_url	Share Patch
+ui.export_md	Export MD
+ui.mute	Mute
+ui.sound_on	Audio On
+ui.touch_mode	Touch UI
+ui.desktop_mode	Desktop UI
+ui.copied	Copied to clipboard!
+unit.g	g
+unit.tsp	tsp
+unit.tbsp	tbsp
+unit.cup	cup
+unit.pcs	pcs
+unit.clove	clove
+unit.pinch	pinch
+heat.room	Room temp / No heat
+heat.gentle	Gentle / Off-heat warm
+heat.simmer	Low-medium simmer
+heat.medium	Medium stovetop
+heat.high	High sear / Hot oven
+pantry.italian	Roman & Italian
+pantry.french	Classical French
+pantry.sichuan	Sichuan
+pantry.cantonese	Cantonese
+pantry.washoku	Japanese Washoku
+pantry.north_indian	North Indian
+pantry.south_indian	South Indian
+pantry.mexican	Mexican & Oaxacan
+pantry.levantine	Levantine
+pantry.andean	Peruvian & Andean
+pantry.se_asian	Southeast Asian
+pantry.nordic_euro	Nordic & Central Euro
+arch.starch_fat_emulsion	Starch-Fat Warm Emulsion
+arch.shear_emulsion	Cold/Warm Shear Emulsion
+arch.collagen_braise	Collagen Braise & Reduction
+arch.maillard_pan_glaze	High-Heat Maillard + Pan Glaze
+arch.starch_hydration	Starch Hydration (Risotto/Pilaf)
+arch.veloute_suspension	Velouté, Purée & Suspension
+arch.protein_custard	Set Protein Gel & Custard
+arch.coagulated_curd	Coagulated Protein Curd
+arch.gluten_dough	Gluten & Fermented Dough
+arch.low_gluten_batter	Low-Gluten Batter & Crisp Shell
+arch.aerated_foam	Aerated Foam & Meringue
+arch.sucrose_caramel	Sucrose Stage & Caramel
+arch.acid_osmotic_cure	Acid / Osmotic Cure (No-Heat)
+arch.crisp_crust_roast	Dehydrated Crust / Moist Core
+arch.tempered_legume	Fat-Tempered Legume Matrix
+role.starch_matrix	Starch Matrix
+role.protein_collagen	Collagen Matrix
+role.protein_tender	Core Protein / Veg
+role.legume_matrix	Legume Matrix
+role.aqueous_base	Aqueous Phase
+role.fat_medium	Lipid / Fat Phase
+role.surfactant_binder	Surfactant / Emulsifier
+role.hydrocolloid_gel	Gelling / Setting Agent
+role.umami_ferment	Umami / Ferment
+role.aroma_early_fat	Early Fat Aromatics
+role.aroma_late_volatile	Late Volatile Finish
+role.acid_brightener	Acid / Brightener
+role.sweet_caramel	Sugar / Caramel Balance
+role.texture_crisp	Crisp / Leavener
+op.pat_dry_brine	Dry Surface & Season
+op.pre_scald_enzyme	Protease Deactivation Scald
+op.hydrate_neutral	Neutral-pH Softening Simmer
+op.lipid_shorten_knead	Delayed Lipid Incorporation
+op.whip_clean_foam	Lipid-Free Foam Aeration
+op.bloom_fat_aroma	Warm Lipid Aroma Bloom
+op.maillard_sear	Dry-Surface Maillard Sear
+op.starch_cook	Controlled Starch Gelatinization
+op.collagen_braise	Slow Collagen-to-Gelatin Braise
+op.shear_emulsify	Shear Emulsification
+op.gentle_coagulate	Gentle Protein Coagulation
+op.sucrose_stage	Sucrose Concentration & Caramel
+op.acid_osmotic_cure	Cold Acid / Osmotic Denaturation
+op.crust_dehydrate_fry	High-Heat Crust Dehydration
+op.post_soften_acid	Post-Softening Acid Balance
+op.off_heat_volatiles	Off-Heat Volatile Finish
+op.plate_assemble	Merge Companion & Serve
+cue.home.pat_dry_brine	Pat completely dry with paper towels so surface moisture evaporates before hitting the hot pan.
+cue.home.pre_scald_enzyme	Bring briefly to a gentle simmer for 2 minutes to neutralize protein-splitting enzymes so the dish sets cleanly.
+cue.home.hydrate_neutral	Simmer gently in unsalted/non-acidic liquid until tender all the way through before adding any sour ingredients.
+cue.home.lipid_shorten_knead	Knead dough until smooth and stretchy first, then work in the softened fat piece by piece until glossy.
+cue.home.whip_clean_foam	Whip in a spotless, grease-free bowl until glossy peaks hold their shape.
+cue.home.bloom_fat_aroma	Warm gently in fat until fragrant and nutty without darkening or smoking.
+cue.home.maillard_sear	Sear undisturbed until a deep golden-brown crust forms and releases naturally from the pan.
+cue.home.starch_cook	Cook steadily until starches swell and turn tender, reserving starchy liquid for binding.
+cue.home.collagen_braise	Keep at a lazy bubble (never a rolling boil) until connective tissue melts into a sticky, lip-coating glaze.
+cue.home.shear_emulsify	Whisk or toss vigorously off direct heat, streaming fat slowly until thick, glossy, and unified.
+cue.home.gentle_coagulate	Cook over gentle indirect heat just until the center quivers like soft jelly; pull immediately before bubbling.
+cue.home.sucrose_stage	Boil without stirring until bubbles thicken and syrup reaches deep amber; swirl pan gently.
+cue.home.acid_osmotic_cure	Toss chilled pieces evenly in cure just until edges turn opaque while centers stay translucent.
+cue.home.crust_dehydrate_fry	Cook at lively heat until steam subsides and the exterior turns shatteringly crisp while the inside stays juicy.
+cue.home.post_soften_acid	Stir in bright/acidic ingredients now that softening is finished and simmer briefly to marry flavors.
+cue.home.off_heat_volatiles	Remove from burner first, then fold in fresh herbs, zest, or delicate oils to lock in bright aroma.
+cue.home.plate_assemble	Plate the main element hot and spoon or drizzle the companion sauce alongside for contrast.
+cue.pro.pat_dry_brine	Desiccate surface water activity (aw < 0.85) and equilibrate NaCl via osmosis prior to >=155 C Maillard onset.
+cue.pro.pre_scald_enzyme	Hold above protease denaturation threshold (>=76 C, 120 s) to prevent enzymatic hydrolysis of collagen/ovalbumin network.
+cue.pro.hydrate_neutral	Hydrate and depolymerize middle-lamella pectin at pH >= 6.0; premature H+ cross-links Ca/Mg pectate.
+cue.pro.lipid_shorten_knead	Develop hydrated glutenin-gliadin viscoelastic network before lipid coating (>10% fat shortens disulfide bridges).
+cue.pro.whip_clean_foam	Shear lipid-free protein/saponin film to overrun target; sucrose elevates continuous-phase lamella viscosity.
+cue.pro.bloom_fat_aroma	Extract lipophilic terpenes, capsaicinoids, and sulfides in lipid phase at 115-128 C below smoke point.
+cue.pro.maillard_sear	Drive non-enzymatic amino-carbonyl Maillard cascade at 165-210 C generating pyrazines and melanoidins.
+cue.pro.starch_cook	Gelatinize starch granules past birefringence loss (62-75 C), balancing amylopectin viscosity vs amylose retrogradation.
+cue.pro.collagen_braise	Hydrolyze triple-helix tropocollagen into soluble gelatin at 82-90 C internal while limiting myofibrillar squeeze.
+cue.pro.shear_emulsify	Disperse lipid droplets into continuous aqueous/surfactant phase within packing limit and casein thermal ceiling.
+cue.pro.gentle_coagulate	Cross-link protein/hydrocolloid gel at 78-82 C (<83 C syneresis threshold) with sufficient ionic strength.
+cue.pro.sucrose_stage	Concentrate sucrose to target boiling-point elevation (165-172 C pyrolysis) using acid/invert sugar to inhibit crystallization.
+cue.pro.acid_osmotic_cure	Denature surface myofibrillar proteins via pH <= 3.6 / NaCl osmotic gradient within strict kinetic window.
+cue.pro.crust_dehydrate_fry	Evacuate surface steam at 185-205 C forming porous crisp crust while core equilibrates at 65-92 C.
+cue.pro.post_soften_acid	Titrate mixture to target equilibrium pH after complete cellular pectin softening.
+cue.pro.off_heat_volatiles	Inject heat-labile terpenes, aldehydes, and esters at <52 C to minimize vapor-pressure volatilization.
+cue.pro.plate_assemble	Combine primary matrix and companion emulsion/glaze maintaining thermal and textural phase contrast.
+ing.durum_pasta	Durum Wheat Pasta
+ing.wheat_noodles	Alkaline Wheat Noodles
+ing.rice_noodles	Rice Noodles
+ing.arborio_rice	Arborio / Carnaroli Rice
+ing.jasmine_rice	Jasmine Rice
+ing.basmati_rice	Aged Basmati Rice
+ing.bread_flour	Strong Bread Flour
+ing.pastry_flour	Soft Pastry Flour
+ing.rice_flour	Fine Rice Flour
+ing.chickpea_flour	Besan / Chickpea Flour
+ing.masa_harina	Nixtamalized Masa Harina
+ing.starchy_potato	Floury Potato
+ing.cornstarch	Cornstarch
+ing.potato_starch	Potato Starch (Katakuriko)
+ing.buckwheat_flour	Roasted Buckwheat Flour
+ing.cassava_tapioca	Tapioca / Cassava Starch
+ing.beef_chuck	Beef Chuck Roast
+ing.beef_short_rib	Beef Short Ribs
+ing.pork_belly	Skin-On Pork Belly
+ing.lamb_shoulder	Lamb Shoulder
+ing.chicken_thigh	Chicken Thigh
+ing.duck_leg	Duck Leg
+ing.beef_sirloin	Beef Sirloin Steak
+ing.chicken_breast	Chicken Breast
+ing.pork_loin	Pork Tenderloin / Loin
+ing.sea_bass_fillet	White Sea Bass Fillet
+ing.salmon_fillet	Fresh Salmon Fillet
+ing.tiger_shrimp	Peeled Tiger Shrimp
+ing.guanciale_lardons	Cured Guanciale / Lardons
+ing.firm_tofu	Pressed Firm Tofu
+ing.king_oyster_mush	King Oyster Mushroom
+ing.eggplant_flesh	Aubergine / Eggplant
+ing.cauliflower_floret	Cauliflower Florets
+ing.paneer_fresh	Fresh Paneer Cubes
+ing.red_lentils	Split Red Lentils
+ing.chickpeas_dry	Soaked Chickpeas
+ing.black_beans_dry	Turtle Black Beans
+ing.fava_beans_dry	Peeled Fava Beans
+ing.mung_dal_split	Yellow Split Mung Dal
+ing.pinto_beans_dry	Pinto Beans
+ing.water	Filtered Water
+ing.starchy_pasta_water	Salted Starchy Cooking Water
+ing.kombu_bonito_dashi	Kombu-Katsuobushi Dashi
+ing.kombu_shiitake_dashi	Vegan Kombu-Shiitake Dashi
+ing.chicken_stock	Rich Chicken Stock
+ing.beef_bone_stock	Roasted Beef Bone Stock
+ing.shellfish_stock	Roasted Shellfish Stock
+ing.roasted_veg_stock	Roasted Vegetable Stock
+ing.whole_milk	Whole Cow's Milk
+ing.heavy_cream	Heavy Cream (36%)
+ing.coconut_milk	Full-Fat Coconut Milk
+ing.soy_milk_rich	Unsweetened Rich Soy Milk
+ing.buttermilk	Cultured Buttermilk
+ing.almond_milk_unsweet	Unsweetened Almond Milk
+ing.dry_white_wine	Dry White Wine
+ing.dry_red_wine	Dry Red Wine
+ing.extra_virgin_olive_oil	Extra-Virgin Olive Oil
+ing.unsalted_butter	Cultured Unsalted Butter
+ing.clarified_ghee	Clarified Butter (Ghee)
+ing.neutral_canola_oil	Neutral Rapeseed / Canola Oil
+ing.peanut_oil	Roasted Peanut Oil
+ing.toasted_sesame_oil	Toasted Sesame Oil
+ing.sichuan_chili_oil	Infused Sichuan Chili Oil
+ing.coconut_oil	Virgin Coconut Oil
+ing.rendered_lard	Rendered Pork Lard
+ing.duck_fat	Rendered Duck Fat
+ing.mustard_oil	Pungent Mustard Oil
+ing.dark_chocolate_70	Dark Chocolate (70% Cacao)
+ing.egg_yolk	Fresh Egg Yolk
+ing.whole_egg	Whole Egg
+ing.egg_white_albumen	Egg White (Albumen)
+ing.pecorino_romano	Aged Pecorino Romano
+ing.parmigiano_reggiano	Aged Parmigiano-Reggiano
+ing.gruyere_cheese	Aged Gruyère Cheese
+ing.dijon_mustard	Smooth Dijon Mustard
+ing.tahini_sesame_paste	Hulled Sesame Tahini
+ing.chinese_sesame_paste	Toasted Chinese Sesame Paste
+ing.aquafaba_liquid	Reduced Chickpea Aquafaba
+ing.cashew_cream_base	Blended Cashew Cream
+ing.wheat_roux_blond	Cooked Blond Butter Roux
+ing.blanched_almonds	Ground Blanched Almonds
+ing.gelatin_bloom200	Sheet/Powder Gelatin (200 Bloom)
+ing.nigari_magnesium	Nigari (Magnesium Chloride)
+ing.silken_tofu_base	Silken Tofu Purée
+ing.sodium_citrate	Trisodium Citrate
+ing.xanthan_gum	Xanthan Gum
+ing.agar_agar_powder	Agar-Agar Powder
+ing.iota_carrageenan	Iota Carrageenan
+ing.methylcellulose_f50	Methylcellulose (F50)
+ing.soy_lecithin_pwd	De-Oiled Soy Lecithin
+ing.transglutaminase	Transglutaminase (Activa)
+ing.koji_enzyme_paste	Active Shio-Koji Paste
+ing.calcium_lactate	Calcium Lactate
+ing.white_shiro_miso	Sweet White Shiro Miso
+ing.red_aka_miso	Aged Red Aka Miso
+ing.pixian_doubanjiang	Pixian Chili Bean Paste (Doubanjiang)
+ing.soy_sauce_shoyu	Brewed Soy Sauce (Shoyu)
+ing.tamari_gf_soy	Gluten-Free Tamari
+ing.fish_sauce_nam_pla	Aged Anchovy Fish Sauce
+ing.anchovy_fillet	Salt-Cured Anchovy Fillets
+ing.tomato_paste_conc	Double-Concentrated Tomato Paste
+ing.dried_porcini_shiitake	Dried Porcini / Shiitake
+ing.nutritional_yeast	Toasted Nutritional Yeast
+ing.oyster_sauce	Cantonese Oyster Sauce
+ing.fermented_shrimp_paste	Roasted Shrimp Paste (Belacan)
+ing.sea_salt_fine	Fine Sea Salt
+ing.garlic_clove	Crushed Fresh Garlic
+ing.shallot_bulb	Finely Diced Shallot
+ing.yellow_onion	Yellow Onion
+ing.fresh_ginger_raw	Grated Fresh Ginger
+ing.black_peppercorn	Toasted Cracked Black Pepper
+ing.sichuan_peppercorn	Toasted Sichuan Peppercorn
+ing.cumin_seed	Whole Cumin Seeds
+ing.coriander_seed	Crushed Coriander Seeds
+ing.brown_mustard_seed	Brown Mustard Seeds
+ing.dried_arbol_chili	Dried Red Chili (Árbol / Tianjiao)
+ing.pasilla_ancho_chili	Toasted Pasilla / Ancho Chili
+ing.aji_amarillo_paste	Peruvian Ají Amarillo Paste
+ing.lemongrass_galangal	Bruised Lemongrass & Galangal
+ing.curry_leaves_fresh	Fresh Curry Leaves
+ing.turmeric_garam_spice	Turmeric & Warm Garam Spices
+ing.cinnamon_clove_star	Cinnamon, Star Anise & Clove
+ing.saffron_threads	Steeped Saffron Threads
+ing.smoked_paprika	Sweet Smoked Paprika (Pimentón)
+ing.mirepoix_carrot_cel	Diced Carrot & Celery Mirepoix
+ing.red_onion_sliced	Thinly Shaved Red Onion
+ing.fresh_basil_parsley	Fresh Basil & Flat-Leaf Parsley
+ing.fresh_cilantro	Fresh Cilantro Leaves
+ing.fresh_dill_chives	Fresh Dill & Chives
+ing.scallion_greens	Sliced Scallion Greens
+ing.lemon_yuzu_zest	Grated Lemon / Yuzu Zest
+ing.vanilla_bean_paste	Madagascar Vanilla Bean
+ing.orange_blossom_rose	Orange Blossom / Rose Water
+ing.mitsuba_shiso_leaf	Fresh Mitsuba / Shiso Leaf
+ing.thai_holy_basil	Thai Holy Basil (Bai Krapow)
+ing.fresh_pineapple_raw	Fresh Raw Pineapple Juice/Dice
+ing.fresh_lemon_juice	Fresh Lemon Juice
+ing.fresh_lime_juice	Fresh Key/Persian Lime Juice
+ing.yuzu_juice	Pressed Yuzu Citrus Juice
+ing.rice_vinegar	Unseasoned Rice Vinegar
+ing.chinkiang_black_vin	Aged Chinkiang Black Vinegar
+ing.sherry_wine_vinegar	Aged Sherry / Wine Vinegar
+ing.tamarind_pulp_conc	Tart Tamarind Pulp
+ing.strained_yogurt	Strained Cultured Yogurt
+ing.fresh_tomato_diced	Ripe Plum Tomatoes
+ing.cream_of_tartar	Cream of Tartar (Tartaric Acid)
+ing.caster_sucrose	Fine Caster Sugar
+ing.palm_jaggery_sugar	Palm Sugar / Jaggery
+ing.floral_honey	Raw Floral Honey
+ing.glucose_corn_syrup	Invert Glucose Syrup
+ing.hon_mirin	Hon-Mirin (Sweet Rice Wine)
+ing.pomegranate_molasses	Pomegranate Molasses
+ing.pure_maple_syrup	Amber Maple Syrup
+ing.shaoxing_rice_wine	Shaoxing Cooking Wine
+ing.roasted_peanuts	Crushed Roasted Peanuts
+ing.toasted_sesame_seed	Toasted White/Black Sesame
+ing.panko_breadcrumbs	Crisp Panko Breadcrumbs
+ing.crispy_fried_shallot	Crispy Fried Shallots
+ing.toasted_hazelnut_wal	Toasted Hazelnuts & Walnuts
+ing.cancha_toasted_corn	Peruvian Toasted Cancha Corn
+ing.pine_nuts_pistachio	Toasted Pine Nuts & Pistachio
+ing.flaky_maldon_salt	Flaky Sea Salt Crystals
+ing.active_yeast_salt	Active Yeast & Sea Salt
+ing.baking_powder_salt	Baking Powder & Fine Salt
+ing.baking_soda_alkali	Sodium Bicarbonate (Alkali)
+ing.nori_furikake_crisp	Toasted Nori & Sesame Furikake

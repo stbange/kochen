@@ -1,0 +1,10 @@
+build/
+build-*/
+dist/
+*.o
+*.obj
+*.gcda
+*.gcno
+*.gcov
+.DS_Store
+compile_commands.json

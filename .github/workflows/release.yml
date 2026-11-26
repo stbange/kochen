@@ -1,0 +1,56 @@
+name: Release Builds
+
+on:
+  push:
+    tags: [ 'v*' ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  package-desktop:
+    strategy:
+      matrix:
+        include:
+          - os: ubuntu-latest
+            archive: kochen-linux-x64.tar.gz
+          - os: macos-latest
+            archive: kochen-macos.tar.gz
+          - os: windows-latest
+            archive: kochen-windows-x64.zip
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Linux deps
+        if: runner.os == 'Linux'
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq libgl1-mesa-dev libx11-dev libxext-dev libxrandr-dev \
+            libxcursor-dev libxi-dev libxfixes-dev libxss-dev libwayland-dev libxkbcommon-dev \
+            libasound2-dev libpulse-dev pkg-config
+
+      - name: Build Release
+        run: |
+          cmake -B build -DCMAKE_BUILD_TYPE=Release -DKOCHEN_BUILD_TESTS=OFF
+          cmake --build build --config Release --parallel
+
+      - name: Package Archive
+        shell: bash
+        run: |
+          mkdir -p pkg/kochen
+          if [ -d build/Release ]; then BIN_DIR=build/Release; else BIN_DIR=build; fi
+          cp "$BIN_DIR"/kochen* pkg/kochen/ 2>/dev/null || true
+          cp -r "$BIN_DIR/assets" pkg/kochen/assets
+          cp LICENSE LICENSE-ART README.md pkg/kochen/
+          if [[ "${{ matrix.archive }}" == *.zip ]]; then
+            (cd pkg && 7z a "../${{ matrix.archive }}" kochen)
+          else
+            tar -C pkg -czf "${{ matrix.archive }}" kochen
+          fi
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.archive }}
+          path: ${{ matrix.archive }}
